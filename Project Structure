@@ -1,1 +1,10 @@
 
+autoencoder-cifar10/
+│
+├── train.py
+├── encoder.py
+├── decoder.py
+├── model.py
+├── utils.py
+├── requirements.txt
+└── README.md
